@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1629363005186,3718,Login_Success_POST,200,OK,Thread Group New 1-1,text,true,,888,312,1,1,https://reqres.in/api/login,3718,0,1398
+1629363008930,317,Login_Failure_POST,400,Bad Request,Thread Group New 1-1,text,true,,894,286,1,1,https://reqres.in/api/login,317,0,0
+1629363009251,497,Register_Success_POST,200,OK,Thread Group New 1-1,text,true,,885,311,1,1,https://reqres.in/api/register,497,0,0
+1629363009750,1064,List_Users_GET,200,OK,Thread Group New 1-1,text,true,,1148,236,1,1,https://reqres.in/api/users/1,1063,0,0
